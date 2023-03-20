@@ -31,6 +31,7 @@ o	Exited—whether or not the customer left the bank.
 o	Bank DOJ — date when the Customer associated/joined  with the bank.  
 
 ## Data Gathering:  
+
 Used the following data assets to pull the data related to Bank customer and associated details.     
 o	ActiveCustomer     
 o	Bank_Churn     
@@ -39,5 +40,14 @@ o	CustomerInfo
 o	ExitCustomer    
 o	Gender    
 o	Geography    
+
+## Churn Analysis:   
+Analyse the data and bring out few insights on the customer Churn.    
+It is advantageous for banks to know what leads a client towards the decision to leave the company.   
+Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.    
+![Banking_report-1](https://user-images.githubusercontent.com/122562969/226242732-73a9a29e-b46d-4599-8538-1ecece5de1dd.jpg)   
+![Banking_report-2](https://user-images.githubusercontent.com/122562969/226242946-5ab39db7-d91e-4e80-a01d-1e7293b5371d.jpg)
+
+
 
 
